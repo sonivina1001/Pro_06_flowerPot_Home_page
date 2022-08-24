@@ -1,0 +1,188 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+    
+
+}
+
+body{
+    height: 100vh;
+    width: fit-content;
+    background-color: #f4f3f8;
+    font-family: 'Allerta';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.logo{
+    position: absolute;
+    top:70px;
+    left: 50px;
+}
+
+#navMid{
+    font-weight: bold;
+    font-size: large;
+    position: absolute;
+    top: 70px;
+}
+
+.mid1{
+    text-decoration: underline;
+    position: absolute;
+    left: 500px;
+}
+
+.mid2{
+    position: absolute;
+    left: 650px;
+}
+
+.mid3{
+    position: absolute;
+    left: 800px;
+}
+
+.mid4{
+    position: absolute;
+    left: 950px;
+}
+
+.mid5{
+    position: absolute;
+    left: 1100px;
+}
+
+
+
+#navEnd{
+    position: absolute;
+    top: 70px;
+}
+
+.end1{
+    position: absolute;
+    left: 1400px;
+}
+
+.end2{
+    position: absolute;
+    left: 1450px;
+}
+
+.end3{
+    position: absolute;
+    left: 1500px;
+}
+
+#imgMain{
+    height: 700px;
+    position: absolute;
+    top: 200px;
+    left: 1155px;
+
+}
+
+.dis-btn{
+    position: absolute;
+    top: 600px;
+    left: 50px;
+    background-color: #466d50;
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    color: #f4f3f8;
+    font-size: 40px;
+    padding: 20px 30px;
+    border-radius: 50px;
+    border: 0ch;
+}
+
+
+#feeding{
+    position: absolute;
+    top: 750px;
+    left: 50px;
+
+}
+
+.feed{
+    position: absolute;
+    top: 770px;
+    left: 150px ;
+}
+
+.text1{
+    color: #466d50;
+    position: absolute;
+    top: 790px;
+    left: 150px;
+}
+
+#light{
+    position: absolute;
+    top: 750px;
+    left: 450px;
+
+}
+
+.light{
+    position: absolute;
+    top: 770px;
+    left: 520px ;
+}
+
+.text2{
+    color: #466d50;
+    position: absolute;
+    top: 790px;
+    left: 520px;
+}
+
+#care{
+    position: absolute;
+    top: 750px;
+    left: 850px;
+
+}
+
+.care{
+    position: absolute;
+    top: 770px;
+    left: 920px ;
+}
+
+.text3{
+    color: #466d50;
+    position: absolute;
+    top: 790px;
+    left: 920px;
+}
+
+#monstera{
+    font-size: 150px;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 800;
+
+}
+
+.line1{
+    color: #466d50;
+    position: absolute;
+    top: 400px;
+    left: 70px;
+
+}
+
+.line2{
+    color: #466d50;
+    position: absolute;
+    top: 450px;
+    left: 70px;
+
+}
